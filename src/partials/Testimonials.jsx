@@ -1,8 +1,8 @@
 import React from 'react';
 
-import TestimonialImage01 from '../images/testimonial-01.jpg';
-import TestimonialImage02 from '../images/testimonial-02.jpg';
-import TestimonialImage03 from '../images/testimonial-03.jpg';
+import TestimonialImage01 from '../images/testimonial-01.png';
+import TestimonialImage02 from '../images/testimonial-02.png';
+import TestimonialImage03 from '../images/testimonial-03.png';
 
 function Testimonials() {
   return (
@@ -13,7 +13,7 @@ function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <p className="text-xl text-gray-400">Easy Edits make your design in ecommerce... easy. At the very least just a little bit simpler, or so a few people think.</p>
           </div>
 
           {/* Testimonials */}
@@ -29,9 +29,9 @@ function Testimonials() {
                     </svg>
                         </div>
                 </div>
-                <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+                <blockquote className="text-lg text-gray-500 grow">— Highly recommended! I spent hours trying to find a solution to my issue by editing code. With easy edits I literally had it done in 5 minutes! Thank you for your help!</blockquote>
                 <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                  <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                  <cite className="text-gray-200 not-italic">Huracan Fabrication</cite>
                 </div>
               </div>
 
@@ -45,9 +45,9 @@ function Testimonials() {
                       </svg>
                         </div>
                   </div>
-                  <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+                  <blockquote className="text-lg text-gray-500 grow">— This app helps to change my storefront, pages, and product pages effortlessly. I'm so happy to have found easy edits. The support for the app is excellent. I'd highly recommend using this app for your design needs.</blockquote>
                   <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                    <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                    <cite className="text-gray-200 not-italic">Thursday Books</cite> 
                   </div>
                 </div>
 
@@ -61,14 +61,26 @@ function Testimonials() {
                         </svg>
                         </div>
                     </div>
-                    <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+                    <blockquote className="text-lg text-gray-500 grow">— Sometimes you just need to push live a CSS edit that isn't worth hiring a developer to knock out. This is where Easy Edits comes into play. What I love about the tool - it WORKS. It's simple. It's low friction. </blockquote>
                     <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                      <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                      <cite className="text-gray-200 not-italic">Skydio Inc.</cite>
                     </div>
                   </div>
 
                 </div>
 
+              </div>
+            </div>
+            <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
+              <div data-aos="fade-up" data-aos-delay="400">
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="https://apps.shopify.com/easy-edits">
+                  View In The App Store
+                </a>
+              </div>
+              <div data-aos="fade-up" data-aos-delay="600">
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" target="_blank" href="https://easy-edits-demo.myshopify.com/pages/editor">
+                  Checkout The Demo
+                </a>
               </div>
             </div>
 </section>

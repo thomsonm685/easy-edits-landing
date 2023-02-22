@@ -8,8 +8,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">Store design in Shopify has either been limited or out of your hands.</h2>
+            <p className="text-xl text-gray-400">Easy Edits extends beyond the limitations of the Shopify theme customizer, empowering you to make front-end edits without touching code.</p>
           </div>
 
           {/* Items */}
@@ -22,8 +22,8 @@ function FeaturesBlocks() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Not A Page-Builder</h4>
+              <p className="text-lg text-gray-400 text-center">Easy Edits is not a page builder like Shogun or PageFly. You can edit and re-design your existing site pages. If it has a URL you can edit it.</p>
             </div>
 
             {/* 2nd item */}
@@ -33,8 +33,8 @@ function FeaturesBlocks() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Click-And-Change</h4>
+              <p className="text-lg text-gray-400 text-center">With Easy Edits you can click on any element in your site to edit the style properties, as well as drag and drop to reposition it.</p>
             </div>
 
             {/* 3rd item */}
@@ -47,8 +47,8 @@ function FeaturesBlocks() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Mobile Optimization</h4>
+              <p className="text-lg text-gray-400 text-center">You can view your edits on any screen size and set them to apply at any of those diffrent screen sizes. Mobile views made easy.</p>
             </div>
 
             {/* 4th item */}
@@ -60,8 +60,8 @@ function FeaturesBlocks() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Easy Management</h4>
+              <p className="text-lg text-gray-400 text-center">We keep all your edits easily accessible. You can name them, switch between them, turn them off/on, and apply them in a hierarchie.</p>
             </div>
 
             {/* 5th item */}
@@ -73,8 +73,8 @@ function FeaturesBlocks() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Free Edits</h4>
+              <p className="text-lg text-gray-400 text-center">Easy Edits comes with a free 14 day trial. You can download the app, make some edits in the 14 days, then delete the app and keep them forever free of charge.</p>
             </div>
 
             {/* 6th item */}
@@ -87,8 +87,8 @@ function FeaturesBlocks() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Commited Support</h4>
+              <p className="text-lg text-gray-400 text-center">Easy edits has a dedicated email and live chat. As a growing app we take any feedback given, add them to the next updates, and let you know we listened.</p>
             </div>
 
           </div>

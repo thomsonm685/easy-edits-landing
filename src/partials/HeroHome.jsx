@@ -19,8 +19,8 @@ function HeroHome() {
           <svg className="max-w-full" width="564" height="552" viewBox="0 0 564 552" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
               <linearGradient id="illustration-02" x1="-3.766" y1="300.204" x2="284.352" y2="577.921" gradientUnits="userSpaceOnUse">
-                <stop stopColor="#5D5DFF" stopOpacity=".01" />
-                <stop offset="1" stopColor="#5D5DFF" stopOpacity=".32" />
+                <stop stopColor="#6371c7" stopOpacity=".15" />
+                <stop offset="1" stopColor="#6371c7" stopOpacity=".6" />
               </linearGradient>
             </defs>
             <path
@@ -37,20 +37,20 @@ function HeroHome() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
-              Landing template for startups
+              Easy Edits
             </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-              Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+              An editor for your Shopify storefront, with a click-and-change, drag-and-drop interface, for all your <b>existing</b> pages.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">
-                  Start free trial
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="https://apps.shopify.com/easy-edits">
+                  View In The App Store
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">
-                  Learn more
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" target="_blank" href="https://easy-edits-demo.myshopify.com/pages/editor">
+                  Checkout The Demo
                 </a>
               </div>
             </div>
@@ -93,7 +93,7 @@ function HeroHome() {
             {/* Modal */}
             <Modal id="modal" ariaLabel="modal-headline" show={videoModalOpen} handleClose={() => setVideoModalOpen(false)}>
               <div className="relative pb-9/16">
-                <iframe className="absolute w-full h-full" src="https://player.vimeo.com/video/174002812" title="Video" allowFullScreen></iframe>
+                <iframe className="absolute w-full h-full" src="https://www.youtube.com/embed/-ApZJsAEz2k" title="Video" allowFullScreen></iframe>
               </div>
             </Modal>
           </div>
